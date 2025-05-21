@@ -1,59 +1,57 @@
-{
-  "bottles": [
-    {
-      "id": 1,
-      "name": "Aqua Pure",
-      "capacity": "1L",
-      "material": "Plastic",
-      "color": "Blue",
-      "type": "Cold",
-      "price": 50,
-      "isAvailable": true,
-      "img": "https://example.com/images/aqua-pure.jpg"
-    },
-    {
-      "id": 2,
-      "name": "Steel King",
-      "capacity": "750ml",
-      "material": "Stainless Steel",
-      "color": "Silver",
-      "type": "Hot",
-      "price": 300,
-      "isAvailable": true,
-      "img": "https://example.com/images/steel-king.jpg"
-    },
-    {
-      "id": 3,
-      "name": "Eco Bottle",
-      "capacity": "500ml",
-      "material": "Glass",
-      "color": "Green",
-      "type": "Cold",
-      "price": 120,
-      "isAvailable": false,
-      "img": "https://example.com/images/eco-bottle.jpg"
-    },
-    {
-      "id": 4,
-      "name": "ThermoMax",
-      "capacity": "1.5L",
-      "material": "Aluminum",
-      "color": "Red",
-      "type": "Hot",
-      "price": 450,
-      "isAvailable": true,
-      "img": "https://example.com/images/thermomax.jpg"
-    },
-    {
-      "id": 5,
-      "name": "Classic Jar",
-      "capacity": "2L",
-      "material": "Plastic",
-      "color": "Transparent",
-      "type": "Cold",
-      "price": 80,
-      "isAvailable": true,
-      "img": "https://example.com/images/classic-jar.jpg"
-    }
-  ]
-}
+[
+  {
+    "id": 1,
+    "name": "Aqua Pure",
+    "capacity": "1L",
+    "material": "Plastic",
+    "color": "Blue",
+    "type": "Cold",
+    "price": 50,
+    "isAvailable": true,
+    "img": "https://example.com/images/aqua-pure.jpg"
+  },
+  {
+    "id": 2,
+    "name": "Steel King",
+    "capacity": "750ml",
+    "material": "Stainless Steel",
+    "color": "Silver",
+    "type": "Hot",
+    "price": 300,
+    "isAvailable": true,
+    "img": "https://example.com/images/steel-king.jpg"
+  },
+  {
+    "id": 3,
+    "name": "GlassGlow",
+    "capacity": "500ml",
+    "material": "Glass",
+    "color": "Transparent",
+    "type": "Cold",
+    "price": 150,
+    "isAvailable": false,
+    "img": "https://example.com/images/glassglow.jpg"
+  },
+  {
+    "id": 4,
+    "name": "HydroFlex",
+    "capacity": "1.5L",
+    "material": "Plastic",
+    "color": "Green",
+    "type": "Cold",
+    "price": 70,
+    "isAvailable": true,
+    "img": "https://example.com/images/hydroflex.jpg"
+  },
+  {
+    "id": 5,
+    "name": "Eco Sip",
+    "capacity": "600ml",
+    "material": "Copper",
+    "color": "Copper",
+    "type": "Both",
+    "price": 450,
+    "isAvailable": false,
+    "img": "https://example.com/images/ecosip.jpg"
+  }
+]
